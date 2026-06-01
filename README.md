@@ -1,4 +1,4 @@
-# EV2
+
 # Registro de Compras 🛒
 
 Mini proyecto realizado en Python como práctica de lógica de programación y manejo de listas.
